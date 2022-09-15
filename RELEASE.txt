@@ -1,1 +1,2 @@
 v0.0.1 : init release
+v0.0.2 : fix repo name typo.

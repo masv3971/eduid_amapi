@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/masv/eduid_amapi/amapi_types"
+	"github.com/masv3971/eduid_amapi/amapi_types"
 )
 
 type Config struct {
